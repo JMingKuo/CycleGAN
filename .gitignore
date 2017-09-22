@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+logs/
+merged_results/
+out_imgs/
+checkpoints/
+
+*.tar
